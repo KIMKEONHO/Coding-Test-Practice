@@ -1,15 +1,8 @@
-import time
-import random
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import font_manager, rc
-import pandas as pd
-import math
-import sympy as sym
-from itertools import permutations
-from itertools import combinations
-from itertools import product
-from itertools import combinations_with_replacement
+
 import datetime
 font_path = "C:/Windows/Fonts/NGULIM.TTF"
 font = font_manager.FontProperties(fname=font_path).get_name()
