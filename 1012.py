@@ -32,3 +32,4 @@ for _ in range(T):
                 ans.append(dfs(lst, visit, i, j))
 
     print(len(ans))
+
