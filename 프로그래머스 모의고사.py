@@ -4,7 +4,6 @@ per1Pattern = deque([1,2,3,4,5])
 per2Pattern = deque([2,1,2,3,2,4,2,5])
 per3Pattern = deque([3,3,1,1,2,2,4,4,5,5])
 
-
 def solution(answers):
 
     scores = [0, 0, 0]
